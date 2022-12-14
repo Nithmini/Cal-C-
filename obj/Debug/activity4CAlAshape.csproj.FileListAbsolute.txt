@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\activity4CAlAshape\activity4CAlAshape\bin\Debug\activity4CAlAshape.exe.config
+C:\Users\User\source\repos\activity4CAlAshape\activity4CAlAshape\bin\Debug\activity4CAlAshape.exe
+C:\Users\User\source\repos\activity4CAlAshape\activity4CAlAshape\bin\Debug\activity4CAlAshape.pdb
+C:\Users\User\source\repos\activity4CAlAshape\activity4CAlAshape\obj\Debug\activity4CAlAshape.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\activity4CAlAshape\activity4CAlAshape\obj\Debug\activity4CAlAshape.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\activity4CAlAshape\activity4CAlAshape\obj\Debug\activity4CAlAshape.Form1.resources
+C:\Users\User\source\repos\activity4CAlAshape\activity4CAlAshape\obj\Debug\activity4CAlAshape.Properties.Resources.resources
+C:\Users\User\source\repos\activity4CAlAshape\activity4CAlAshape\obj\Debug\activity4CAlAshape.csproj.GenerateResource.cache
+C:\Users\User\source\repos\activity4CAlAshape\activity4CAlAshape\obj\Debug\activity4CAlAshape.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\activity4CAlAshape\activity4CAlAshape\obj\Debug\activity4CAlAshape.exe
+C:\Users\User\source\repos\activity4CAlAshape\activity4CAlAshape\obj\Debug\activity4CAlAshape.pdb
